@@ -1,6 +1,6 @@
 ---
-title: "PySyft@OpenMined"
-excerpt: "PySyft is a library for data science on private data."
-link: https://github.com/OpenMined/PySyft
+title: "FS-DKR"
+excerpt: "FS-DKR is distributed key rotation algorithm that adapts the Foque-Stern distributed key generation algorithm, completely written in Rust."
+link: https://github.com/ZenGo-X/fs-dkr
 collection: portfolio
 ---
