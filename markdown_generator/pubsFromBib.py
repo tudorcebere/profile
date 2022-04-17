@@ -28,19 +28,12 @@ import re
 publist = {
     "proceeding": {
         "file" : "proceedings.bib",
-        "venuekey": "booktitle",
+        "venuekey": "journal",
         "venue-pretext": "In the proceedings of ",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
         
-    },
-    "journal":{
-        "file": "pubs.bib",
-        "venuekey" : "journal",
-        "venue-pretext" : "",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
-    } 
+    }
 }
 
 html_escape_table = {
