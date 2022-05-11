@@ -7,4 +7,3 @@ venue: "DRIM Seminar"
 date: 2022-05-10
 location: "Lyon, France"
 ---
-~  
