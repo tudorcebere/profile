@@ -97,30 +97,27 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
+markdown: GFM
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
 
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+  # # Markdown Processing
+  # kramdown:
+  #   input: GFM
+  #   hard_wrap: false
+  #   auto_ids: true
+  #   footnote_nr: 1
+  #   entity_output: as_char
+  #   toc_levels: 1..6
+  #   smart_quotes: lsquo,rsquo,ldquo,rdquo
+  #   enable_coderay: false
 
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: false
     permalink: /:collection/:path/
@@ -128,6 +125,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  teaching:
     output: true
     permalink: /:collection/:path/
 
