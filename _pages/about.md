@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /
 ---
 
 I am a first-year PhD student at Inria :france: advised by [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/) at Inria 🇫🇷 and currently an intern at the Vector Institute 🇨🇦 hosted by [Nicolas Papernot](https://www.papernot.fr/). My research interests are differential privacy (DP) and differential privacy applied to various learning settings.  I hold a MSc in Theoretical Computer Science from Ecole Normale Supérieure de Lyon 🇫🇷 and an EECS degree from Politehnica University of Bucharest 🇷🇴.
