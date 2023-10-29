@@ -10,7 +10,7 @@ Resources that I found useful in my first year of PhD.
 
 ------
 
-During my EECS studies, I didn't get an introduction to many theoretical topics that are both interesting and extremely useful for my research. Here is an outline of the online courses I found interesting during my first year of PhD. Some of the courses I did not finish, or I did not need everything presented, but I found them very didactic.
+During my EECS studies, I didn't get an introduction to many theoretical topics that are both interesting and extremely useful for my research. In this post I will provide some links to some of the most useful resources. Some of the courses I did not finish, or I did not need everything that was presented, but I found them very didactic.
 
 To understand Differential Privacy and Machine Learning, the foundational understanding of probability must be pretty sound. I only had a measure-theoretic introduction to probability in the first year of PhD, but I recommend getting one as soon as possible. Afterwards, everything makes so much more sense. I have mixed multiple resources when learning measure-theoretic probability, but the most fundamental ones were:
  * [Stanford CS109](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQq8ZyA8F8reSQHej3F6RFX) - A good refresher on probability
