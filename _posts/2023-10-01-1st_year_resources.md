@@ -46,6 +46,6 @@ I found out after starting my PhD that a significant component of the PhD life i
 * [The Elements of Style](https://www.bartleby.com/lit-hub/the-elements-of-style)
 * [How to write a great paper by S.P Jones](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 
-I am a big fan of [Oded Goldreich](https://www.wisdom.weizmann.ac.il/~oded/on-ideas.html). His books and blog posts are a mine of gold, yet I will only highlight two of them
+I am a big fan of [Oded Goldreich](https://www.wisdom.weizmann.ac.il/~oded/on-ideas.html). His books and blog posts are a mine of gold, yet I will only highlight two of them:
 * [How to write a paper by O Goldreich](https://www.wisdom.weizmann.ac.il/~oded/writing.html)
 * [On the emotional difficulty of conducting research by O. Goldreich](https://www.wisdom.weizmann.ac.il/~oded/on-ideas.html)
