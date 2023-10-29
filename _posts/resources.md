@@ -20,6 +20,9 @@ Aren't headings cool?
 ------
 
 
+Markov Processes:
+
+Functional Analysis:
 
 
 Measure Theory:
