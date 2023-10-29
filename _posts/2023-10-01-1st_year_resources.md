@@ -7,6 +7,7 @@ tags:
 ---
 
 Resources that I found useful in my first year of PhD.
+
 ------
 
 During my EECS studies, I didn't get an introduction to many theoretical topics that are both interesting and extremely useful for my research. Here is an outline of the online courses I found interesting during my first year of PhD. Some of the courses I did not finish, or I did not need everything presented, but I found them very didactic.
