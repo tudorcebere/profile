@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 I am first-year PhD student at Inria 🇫🇷, supervised by Aurélien Bellet. Currently, I am a research intern at the Vector Institute 🇨🇦 hosted by Nicolas Papernot.
+👋 I am second-year PhD student at Inria 🇫🇷, supervised by Aurélien Bellet. Currently, I am an OpenDP intern at Harvard in Salil Vadhan's group.  Previously, I was a research intern at the Vector Institute 🇨🇦 hosted by Nicolas Papernot.
 
 🔍 **Research & Interests**: I am interested in differential privacy (DP) and its applications in making useful machine learning models with privacy guarantees. More generally, I am interested in (provable) AI safety.
 
