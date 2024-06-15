@@ -1,5 +1,5 @@
 ---
-title: "Privacy Auditing & Privacy Amplification"
+title: "Introduction to differential privacy"
 collection: talks
 type: Guest Lecture, Remote
 link: https://github.com/tudorcebere/profile/blob/master/files/introduction_to_differential_privacy.pdf
